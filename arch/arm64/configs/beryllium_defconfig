@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-Leviathan-Wingardium Leviosa"
+CONFIG_LOCALVERSION="-Leviathan-Walfisch"
 # CONFIG_LOCALVERSION_AUTO is not set
 # CONFIG_FHANDLE is not set
 CONFIG_AUDIT=y
